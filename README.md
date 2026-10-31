@@ -8,7 +8,7 @@
 
 </div>
 
-Terra Dash is a lightweight browser game built with HTML and JavaScript. Explore a simple, fast-paced terrain challenge, avoid obstacles, and keep your score climbing as long as you can survive.
+Terra Dash is a lightweight browser game built with HTML and JavaScript with the help from Claude ai by Anthrophic . Explore a simple, fast-paced terrain challenge, avoid obstacles, and keep your score climbing as long as you can survive.
 
 ## Features
 
